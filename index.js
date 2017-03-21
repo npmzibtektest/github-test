@@ -1,5 +1,10 @@
+
+
 var i = 10;
 var j= 20;
+
+function equation()
+{
 
 if (i> j)
 {
@@ -11,3 +16,7 @@ else
 {
 console.log("J is Greater Than I");
 }
+
+}
+
+equation();
